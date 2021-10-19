@@ -1,7 +1,13 @@
 # Repositório criado para desafio de projeto da plataforma Digital Innovation One 
 Desafio da DIO, criando repositório utilizando VS Code
 
+### Principais comandos do GIT
 
+							* git init
+							* git add .
+							* git status
+							* git remote add origem dominiodosite.git.com/teste
+							* git push add origin master 
 
 1. Crie o repositório no site do github
 
@@ -23,9 +29,23 @@ Desafio da DIO, criando repositório utilizando VS Code
 
    5. para fazer GIT ADD basta clicar nos três pontinhos e clicar no stage all changes 
 
-      ![alt](https://live.staticflickr.com/65535/51607292793_162762657a_z.jpg)
+   ![alt](https://live.staticflickr.com/65535/51607292793_162762657a_z.jpg)
 
    6. Para commitar é bem simples, é só escrevar na barra acima do changes e apertar ctrl + enter.
 
+      ![alt](https://live.staticflickr.com/65535/51607988100_f5e73f9819_n.jpg) 
+
+   7. Agora estamos prontos para subir nosso projeto no GITHUB, só fazer git pull clicando  em Sync Changes.
+
       
+
+      ![alt](https://live.staticflickr.com/65535/51608013990_f3bcf6f006_n.jpg)
+
+
+
+Quem esta acostumado com gitbash vai ver que com o VSCode ganhamos mais tempo de produtividade, ao invés de toda hora escrever os comandos, mas acho imprescindível utilizar o gitbash no início de aprendizado para fixar os comandos para aprender realmente.
+
+
+
+Espero ter ajudado alguém com esse repositório :happy:
 
